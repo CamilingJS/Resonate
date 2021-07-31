@@ -5,6 +5,8 @@ const readBtn = document.getElementById('read');
 const toggleBtn = document.getElementById('toggle');
 const closeBtn = document.getElementById('close');
 
+
+//data array of objects
 const data = [
     {
       image: './img/drink.jpg',
