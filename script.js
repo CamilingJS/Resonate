@@ -58,6 +58,7 @@ const data = [
     }
   ];
 
+  //loop thru the data to create a box
   data.forEach(createBox);
   
   //Create speech boxes
