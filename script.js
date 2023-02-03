@@ -9,6 +9,14 @@ const closeBtn = document.getElementById('close');
 //data array of objects
 const data = [
     {
+      image: './img/restroom.jpg',
+      text: "I need to use the restroom"
+    },
+    {
+      image: './img/homework.jpg',
+      text: "I need help with my homework"
+    },
+    {
       image: './img/drink.jpg',
       text: "I'm Thirsty"
     },
