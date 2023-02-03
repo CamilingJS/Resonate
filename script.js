@@ -9,6 +9,14 @@ const closeBtn = document.getElementById('close');
 //data array of objects
 const data = [
     {
+      image: './img/happy.jpg',
+      text: "I'm Happy"
+    },
+    {
+      image: './img/fun.jpg',
+      text: "I'm having fun"
+    },
+    {
       image: './img/restroom.jpg',
       text: "I need to use the restroom"
     },
@@ -33,8 +41,8 @@ const data = [
       text: "I'm Hurt"
     },
     {
-      image: './img/happy.jpg',
-      text: "I'm Happy"
+      image: './img/dontfeelgood.jpg',
+      text: "I don't feel good"
     },
     {
       image: './img/angry.jpg',
